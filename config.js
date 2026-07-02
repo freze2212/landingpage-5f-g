@@ -6,7 +6,7 @@ window.LINK_CONFIG = {
   default: "https://gg8835.com/?id=153189538",
 
   domains: {
-    "ggtong.vip": "https://gg8835.com/?id=153189538",
+    "ggtong.vip": "https://www.gg8842.com/?id=153189538",
     "gg8869.net": "https://gg8835.com/?id=647827737",
   },
 };
