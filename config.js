@@ -8,6 +8,7 @@ window.LINK_CONFIG = {
   domains: {
     "ggtong.vip": "https://www.gg8842.com/?id=153189538",
     "gg8869.net": "https://gg8835.com/?id=647827737",
+    "gg8888.uk": "https://gg8824.com/?id=582517684",
   },
 };
 
