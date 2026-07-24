@@ -16,6 +16,7 @@ window.LINK_CONFIG = {
     "gg88c.net": "https://gg8830.com/?id=597997459",
     "gg88t.uk": "https://gg8817.com/?id=217268508",
     "gg88s.us": "https://www.gg8854.com/?id=100766338",
+    "gg88in.org": "https://www.gg8842.com/?id=124348462",
   },
 };
 
