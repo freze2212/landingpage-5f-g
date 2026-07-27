@@ -19,6 +19,7 @@ window.LINK_CONFIG = {
     "gg88in.org": "https://www.gg8842.com/?id=124348462",
     "gg88z.link": "https://gg8832.com/?id=959420310",
     "gg88bet.uk": "https://www.gg8850.com/?id=532307045",
+    "g8d1.net": " https://www.gg8859.com/?id=235748786",
   },
 };
 
