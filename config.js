@@ -1,6 +1,5 @@
 /**
- * Cấu hình link redirect theo domain (Cloudflare).
- * Thêm domain mới vào `domains` — khi trỏ domain lên CF sẽ tự ăn link tương ứng.
+ * Cấu hình link redirect theo domain (Cloudflare Pages).
  */
 window.LINK_CONFIG = {
   default: "https://gg8835.com/?id=153189538",
@@ -18,7 +17,16 @@ window.LINK_CONFIG = {
     "gg88in.org": "https://www.gg8842.com/?id=124348462",
     "gg88z.link": "https://gg8832.com/?id=959420310",
     "gg88bet.uk": "https://www.gg8850.com/?id=532307045",
-    "g8d1.net": " https://www.gg8859.com/?id=235748786",
+    "g8d1.net": "https://www.gg8859.com/?id=235748786",
+    "gg88qte.com": "https://gg8846.com/?id=566308881",
+    "gg88sing.co": "https://www.gg8814.com/?id=482086186",
+    "g88sing.com": "https://www.gg8838.com/?id=407699684",
+    "gg88sin.net": "https://www.gg8838.com/?id=407699684",
+    "gg88sgp.com": "https://www.gg8826.com/?id=720056733",
+    "gg88quocte.com": "https://www.gg8826.com/?id=720056733",
+    "gg88sing.org": "https://www.gg8826.com/?id=720056733",
+    "gg8sing.vip": "https://www.gg8826.com/?id=720056733",
+    "gg88am.com": "https://www.gg8826.com/?id=720056733",
   },
 };
 
