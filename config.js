@@ -5,6 +5,7 @@ window.LINK_CONFIG = {
   default: "https://gg8835.com/?id=153189538",
 
   domains: {
+    "www.gg88sing.co": "https://www.gg8824.com/?id=516358228",
     "www.gg8sing.vip": "https://gg8824.com/?id=966041804",
     "ggtong.vip": "https://gg8842.com/?id=934472881",
     "gg8869.net": "https://gg8835.com/?id=647827737",
@@ -20,7 +21,7 @@ window.LINK_CONFIG = {
     "gg88bet.uk": "https://www.gg8850.com/?id=532307045",
     "g8d1.net": "https://www.gg8859.com/?id=235748786",
     "gg88qte.com": "https://gg8846.com/?id=566308881",
-    "gg88sing.co": "https://www.gg8814.com/?id=482086186",
+    "gg88sing.co": "https://www.gg8824.com/?id=516358228",
     "g88sing.com": "https://www.gg8838.com/?id=407699684",
     "gg88sin.net": "https://www.gg8838.com/?id=407699684",
     "gg88sgp.com": "https://www.gg8826.com/?id=720056733",
