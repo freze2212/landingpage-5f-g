@@ -105,8 +105,16 @@
     "messenger_url": "https://www.gg8832.com/?id=742263319",
     "telegram_url": "https://www.gg8832.com/?id=742263319"
   },
-  "tiktoka.shop": "https://www.gg8849.com/?id=125115306",
-  "www.tiktoka.shop": "https://www.gg8849.com/?id=125115306",
+  "tiktoka.shop": {
+    "main_url": "https://www.gg8843.com/?id=347045808",
+    "messenger_url": "https://www.gg8843.com/?id=347045808",
+    "telegram_url": "https://www.gg8843.com/?id=347045808"
+  },
+  "www.tiktoka.shop": {
+    "main_url": "https://www.gg8843.com/?id=347045808",
+    "messenger_url": "https://www.gg8843.com/?id=347045808",
+    "telegram_url": "https://www.gg8843.com/?id=347045808"
+  },
   "tiktoka.ink": "https://www.gg8849.com/?id=125115306",
   "www.tiktoka.ink": "https://www.gg8849.com/?id=125115306",
   "tiktoka.xyz": "https://www.gg8849.com/?id=125115306",
