@@ -5,6 +5,9 @@ window.LINK_CONFIG = {
   default: "https://www.gg8843.com/?id=347045808",
 
   domains: {
+    "www.www.tiktoka.art": "https://www.gg8843.com/?id=347045808",
+    "www.tiktoka.art": "https://www.gg8843.com/?id=347045808",
+    "tiktoka.art": "https://www.gg8843.com/?id=347045808",
     "www.www.tiktoka.shop": "https://www.gg8843.com/?id=347045808",
     "www.tiktoka.shop": "https://www.gg8843.com/?id=347045808",
     "tiktoka.shop": "https://www.gg8843.com/?id=347045808",
