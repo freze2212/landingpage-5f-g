@@ -2,9 +2,12 @@
  * Cấu hình link redirect theo domain (Cloudflare Pages).
  */
 window.LINK_CONFIG = {
-  default: "https://www.gg8838.com/?id=407699684",
+  default: "https://www.gg8832.com/?id=742263319",
 
   domains: {
+    "www.www.tiktoktv.fit": "https://www.gg8832.com/?id=742263319",
+    "www.tiktoktv.fit": "https://www.gg8832.com/?id=742263319",
+    "tiktoktv.fit": "https://www.gg8832.com/?id=742263319",
     "gg88phi.com": "https://www.gg8838.com/?id=407699684",
     "www.www.gg88phi.com": "https://www.gg8838.com/?id=407699684",
     "www.gg88phi.com": "https://www.gg8838.com/?id=407699684",
