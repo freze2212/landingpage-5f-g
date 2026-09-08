@@ -2,7 +2,7 @@
  * Cấu hình link redirect theo domain (Cloudflare Pages).
  */
 window.LINK_CONFIG = {
-  default: "https://www.gg8843.com/?id=347045808",
+  default: "",
 
   domains: {
     "www.www.tiktoka.art": "https://www.gg8843.com/?id=347045808",
