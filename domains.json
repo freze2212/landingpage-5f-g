@@ -115,8 +115,20 @@
     "messenger_url": "https://www.gg8843.com/?id=347045808",
     "telegram_url": "https://www.gg8843.com/?id=347045808"
   },
-  "tiktoka.ink": "https://www.gg8849.com/?id=125115306",
-  "www.tiktoka.ink": "https://www.gg8849.com/?id=125115306",
+  "tiktoka.ink": {
+    "main_url": "https://www.gg8849.com/?id=125115306",
+    "messenger_url": "https://www.gg8849.com/?id=125115306",
+    "register_url": "https://www.gg8849.com/?id=125115306",
+    "app_url": "https://www.gg8849.com/?id=125115306",
+    "cskh_url": "https://www.gg8849.com/?id=125115306"
+  },
+  "www.tiktoka.ink": {
+    "main_url": "https://www.gg8849.com/?id=125115306",
+    "messenger_url": "https://www.gg8849.com/?id=125115306",
+    "register_url": "https://www.gg8849.com/?id=125115306",
+    "app_url": "https://www.gg8849.com/?id=125115306",
+    "cskh_url": "https://www.gg8849.com/?id=125115306"
+  },
   "tiktoka.xyz": {
     "main_url": "https://gg8817.com/?id=713457185",
     "register_url": "https://gg8817.com/?id=713457185",
