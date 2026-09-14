@@ -2,9 +2,12 @@
  * Cấu hình link redirect theo domain (Cloudflare Pages).
  */
 window.LINK_CONFIG = {
-  default: "https://gg8847.com/?id=622036541",
+  default: "https://gg8842.com/?id=231059367",
 
   domains: {
+    "www.www.gg88my.com": "https://gg8842.com/?id=231059367",
+    "www.gg88my.com": "https://gg8842.com/?id=231059367",
+    "gg88my.com": "https://gg8842.com/?id=231059367",
     "www.www.gg88sgp.com": "https://gg8847.com/?id=622036541",
     "www.tiktoka.xyz": "https://gg8817.com/?id=713457185",
     "tiktoka.xyz": "https://gg8817.com/?id=713457185",
