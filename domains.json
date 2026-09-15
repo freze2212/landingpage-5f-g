@@ -93,8 +93,14 @@
   "www.gg88h.fit": "https://www.gg8849.com/?id=125115306",
   "gg88h.ink": "https://www.gg8849.com/?id=125115306",
   "www.gg88h.ink": "https://www.gg8849.com/?id=125115306",
-  "gg88h.online": "https://www.gg8849.com/?id=125115306",
-  "www.gg88h.online": "https://www.gg8849.com/?id=125115306",
+  "gg88h.online": {
+    "main_url": "https://gg8843.com/?id=379107300",
+    "messenger_url": "https://gg8843.com/?id=379107300"
+  },
+  "www.gg88h.online": {
+    "main_url": "https://gg8843.com/?id=379107300",
+    "messenger_url": "https://gg8843.com/?id=379107300"
+  },
   "gg88h.xyz": "https://www.gg8849.com/?id=125115306",
   "www.gg88h.xyz": "https://www.gg8849.com/?id=125115306",
   "tiktoktv.fit": {
