@@ -2,7 +2,7 @@
  * Cấu hình link redirect theo domain (Cloudflare Pages).
  */
 window.LINK_CONFIG = {
-  default: "https://gg8824.com/?id=966041804",
+  default: "https://www.gg8843.com/?id=528677360",
 
   domains: {
     "www.www.gg88sin.net": "https://gg8824.com/?id=966041804",
@@ -33,9 +33,9 @@ window.LINK_CONFIG = {
     "www.www.tiktoka.shop": "https://www.gg8843.com/?id=347045808",
     "www.tiktoka.shop": "https://www.gg8843.com/?id=347045808",
     "tiktoka.shop": "https://www.gg8843.com/?id=347045808",
-    "www.www.tiktoktv.fit": "https://www.gg8832.com/?id=742263319",
-    "www.tiktoktv.fit": "https://www.gg8832.com/?id=742263319",
-    "tiktoktv.fit": "https://www.gg8832.com/?id=742263319",
+    "www.www.tiktoktv.fit": "https://www.gg8843.com/?id=528677360",
+    "www.tiktoktv.fit": "https://www.gg8843.com/?id=528677360",
+    "tiktoktv.fit": "https://www.gg8843.com/?id=528677360",
     "gg88phi.com": "https://www.gg8838.com/?id=407699684",
     "www.www.gg88phi.com": "https://www.gg8838.com/?id=407699684",
     "www.gg88phi.com": "https://www.gg8838.com/?id=407699684",
