@@ -5,6 +5,8 @@ window.LINK_CONFIG = {
   default: "https://www.gg8853.com/?id=506521461",
 
   domains: {
+    "www.gg88en.com": "https://www.gg8853.com/?id=506521461",
+    "gg88en.com": "https://www.gg8853.com/?id=506521461",
     "www.www.gg88en.com": "https://www.gg8853.com/?id=506521461",
     "www.www.gg88h.xyz": "https://gg8858.com/?id=498384222",
     "www.www.gg88h.online": "https://gg8843.com/?id=379107300",
