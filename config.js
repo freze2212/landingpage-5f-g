@@ -2,9 +2,12 @@
  * Cấu hình link redirect theo domain (Cloudflare Pages).
  */
 window.LINK_CONFIG = {
-  default: "https://www.gg8853.com/?id=506521461",
+  default: "https://gg8838.com/?id=888210742",
 
   domains: {
+    "www.www.8tong.net": "https://gg8838.com/?id=888210742",
+    "www.8tong.net": "https://gg8838.com/?id=888210742",
+    "8tong.net": "https://gg8838.com/?id=888210742",
     "www.www.gg88en.com": "https://www.gg8853.com/?id=506521461",
     "www.www.gg88h.xyz": "https://gg8858.com/?id=498384222",
     "www.www.gg88h.online": "https://gg8843.com/?id=379107300",
