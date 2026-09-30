@@ -2,9 +2,12 @@
  * Cấu hình link redirect theo domain (Cloudflare Pages).
  */
 window.LINK_CONFIG = {
-  default: "https://gg8826.com/?id=260281804",
+  default: "https://www.gg8835.com/?id=576509219",
 
   domains: {
+    "www.www.dkgg.us": "https://www.gg8835.com/?id=576509219",
+    "www.dkgg.us": "https://www.gg8835.com/?id=576509219",
+    "dkgg.us": "https://www.gg8835.com/?id=576509219",
     "www.www.g88ae.com": "https://gg8826.com/?id=260281804",
     "www.g88ae.com": "https://gg8826.com/?id=260281804",
     "g88ae.com": "https://gg8826.com/?id=260281804",
