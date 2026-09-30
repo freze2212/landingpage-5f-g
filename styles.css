@@ -133,9 +133,9 @@ body::after {
 }
 
 .logo {
-    width: 450px;
+    height: 111px;
+    width: auto;
     max-width: 95%;
-    height: auto;
     display: block;
     margin: 0 auto;
     filter: drop-shadow(0 0 24px rgba(14, 165, 233, 0.6));
@@ -838,7 +838,7 @@ body::after {
 
 /* === RESPONSIVE === */
 @media (max-width: 768px) {
-    .logo { width: 340px; }
+    .logo { height: 84px; }
     .flag { width: 80px; height: 80px; }
     .flag-item { min-width: 100px; }
     .content { padding-bottom: 200px; }
@@ -847,7 +847,7 @@ body::after {
 }
 
 @media (max-width: 480px) {
-    .logo { width: 270px; }
+    .logo { height: 67px; }
     .flag { width: 70px; height: 70px; }
     .flag-item { min-width: 90px; }
     .marquee-text { padding: 10px 0; }
