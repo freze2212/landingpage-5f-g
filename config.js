@@ -2,7 +2,7 @@
  * Cấu hình link redirect theo domain (Cloudflare Pages).
  */
 window.LINK_CONFIG = {
-  default: "https://gg8824.com/home/mine?id=966041804",
+  default: "https://gg8817.com/?id=140167653",
 
   domains: {
     "www.www.gg88qte.com": "https://gg8835.com/?id=603185691",
@@ -14,9 +14,9 @@ window.LINK_CONFIG = {
     "www.dkgg.uk": "https://www.gg8843.com/?id=989471243",
     "dkgg.uk": "https://www.gg8843.com/?id=989471243",
     "www.www.dkgg.us": "https://www.gg8835.com/?id=576509219",
-    "www.www.g88ae.com": "https://gg8826.com/?id=260281804",
-    "www.g88ae.com": "https://gg8826.com/?id=260281804",
-    "g88ae.com": "https://gg8826.com/?id=260281804",
+    "www.www.g88ae.com": "https://gg8817.com/?id=140167653",
+    "www.g88ae.com": "https://gg8817.com/?id=140167653",
+    "g88ae.com": "https://gg8817.com/?id=140167653",
     "www.www.gg88sing.org": "https://www.gg8850.com/?id=516705134",
     "www.www.gg8sing.com": "https://www.gg8832.com/?id=657488656",
     "www.www.gg8sing.vip": "https://gg8824.com/home/mine?id=966041804",
