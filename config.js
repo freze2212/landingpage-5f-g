@@ -2,7 +2,7 @@
  * Cấu hình link redirect theo domain (Cloudflare Pages).
  */
 window.LINK_CONFIG = {
-  default: "https://www.gg8850.com/?id=516705134",
+  default: "https://gg8824.com/home/mine?id=966041804",
 
   domains: {
     "www.www.gg88qte.com": "https://gg8835.com/?id=603185691",
