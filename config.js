@@ -88,7 +88,6 @@ window.LINK_CONFIG = {
     "gg8869.net": "https://gg8835.com/?id=647827737",
     "gg8888.uk": "https://gg8824.com/?id=582517684",
     "g8us.com": "https://gg8854.com/?id=670349095",
-    "gg88bet.cc": "https://www.gg8826.com/?id=504586243",
     "gg883.uk": "https://www.gg8826.com/?id=801752117",
     "gg88top.us": "https://gg8843.com/?id=229091387",
     "gg88t.uk": "https://gg8817.com/?id=217268508",
