@@ -2,7 +2,7 @@
  * Cấu hình link redirect theo domain (Cloudflare Pages).
  */
 window.LINK_CONFIG = {
-  default: "https://www.gg8830.com/?id=771786600",
+  default: "https://gg8854.com/?id=465777975",
 
   domains: {
     "www.www.gg88an.com": "https://www.gg8830.com/?id=771786600",
@@ -15,8 +15,8 @@ window.LINK_CONFIG = {
     "www.gg88me.com": "https://gg8847.com/?id=623255530",
     "gg88me.com": "https://gg8847.com/?id=623255530",
     "www.www.gg88qte.com": "https://www.gg8832.com/?id=321806038",
-    "www.www.g8d1.net": "https://www.gg8835.com/?id=851827492",
-    "www.g8d1.net": "https://www.gg8835.com/?id=851827492",
+    "www.www.g8d1.net": "https://gg8854.com/?id=465777975",
+    "www.g8d1.net": "https://gg8854.com/?id=465777975",
     "www.dkgg.us": "https://www.gg8835.com/?id=576509219",
     "dkgg.us": "https://www.gg8835.com/?id=576509219",
     "www.www.dkgg.uk": "https://www.gg8843.com/?id=989471243",
@@ -96,7 +96,7 @@ window.LINK_CONFIG = {
     "gg88in.org": "https://www.gg8842.com/?id=124348462",
     "gg88z.link": "https://gg8832.com/?id=959420310",
     "gg88bet.uk": "https://www.gg8850.com/?id=532307045",
-    "g8d1.net": "https://www.gg8835.com/?id=851827492",
+    "g8d1.net": "https://gg8854.com/?id=465777975",
     "gg88qte.com": "https://www.gg8832.com/?id=321806038",
     "gg88sgp.com": "https://gg8847.com/?id=622036541",
     "gg88quocte.com": "https://www.gg8826.com/?id=720056733",
