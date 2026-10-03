@@ -85,7 +85,6 @@ window.LINK_CONFIG = {
     "gg88sing.co": "https://www.gg8824.com/?id=516358228",
     "www.gg8sing.vip": "https://gg8824.com/home/mine?id=966041804",
     "gg8sing.vip": "https://gg8824.com/home/mine?id=966041804",
-    "ggtong.vip": "https://gg8842.com/?id=934472881",
     "gg8869.net": "https://gg8835.com/?id=647827737",
     "gg8888.uk": "https://gg8824.com/?id=582517684",
     "g8us.com": "https://gg8854.com/?id=670349095",
