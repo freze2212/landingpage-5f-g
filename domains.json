@@ -451,14 +451,6 @@
     "main_url": "https://www.gg8842.com/?id=413873675",
     "messenger_url": "https://www.gg8842.com/?id=413873675"
   },
-  "88co.vip": {
-    "main_url": "https://www.gg8817.com/?id=820136499",
-    "messenger_url": "https://www.gg8817.com/?id=820136499"
-  },
-  "www.88co.vip": {
-    "main_url": "https://www.gg8817.com/?id=820136499",
-    "messenger_url": "https://www.gg8817.com/?id=820136499"
-  },
   "gg8e.com": {
     "main_url": "https://www.gg8842.com/home/register?id=880686781",
     "messenger_url": "https://www.gg8842.com/home/register?id=880686781"
@@ -482,5 +474,15 @@
   "www.g8fun.top": {
     "main_url": "https://www.gg8838.com/?id=509354757",
     "messenger_url": "https://www.gg8838.com/?id=509354757"
+  },
+  "88co.vip": {
+    "main_url": "https://www.gg8842.com/?id=413873675",
+    "messenger_url": "https://www.gg8842.com/?id=413873675",
+    "telegram_url": "https://www.gg8842.com/?id=413873675"
+  },
+  "www.88co.vip": {
+    "main_url": "https://www.gg8842.com/?id=413873675",
+    "messenger_url": "https://www.gg8842.com/?id=413873675",
+    "telegram_url": "https://www.gg8842.com/?id=413873675"
   }
 }
