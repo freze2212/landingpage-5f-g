@@ -5,9 +5,9 @@ window.LINK_CONFIG = {
   default: "#",
 
   domains: {
-    "www.www.gg88st.com": "https://gg8826.com/?id=769240761",
-    "www.gg88st.com": "https://gg8826.com/?id=769240761",
-    "gg88st.com": "https://gg8826.com/?id=769240761",
+    "www.www.gg88st.com": "https://gg8817.com/?id=720657617",
+    "www.gg88st.com": "https://gg8817.com/?id=720657617",
+    "gg88st.com": "https://gg8817.com/?id=720657617",
     "www.www.g8fun.top": "https://www.gg8838.com/?id=509354757",
     "www.g8fun.top": "https://www.gg8838.com/?id=509354757",
     "g8fun.top": "https://www.gg8838.com/?id=509354757",
