@@ -6,8 +6,6 @@ window.LINK_CONFIG = {
 
   domains: {
     "www.www.gg88t1.net": "https://www.gg8838.com/?id=206619434",
-    "www.gg88t1.net": "https://www.gg8838.com/?id=206619434",
-    "gg88t1.net": "https://www.gg8838.com/?id=206619434",
     "www.www.gg8tong.us": "https://www.gg8832.com/?id=894528974",
     "www.gg8tong.us": "https://www.gg8832.com/?id=894528974",
     "gg8tong.us": "https://www.gg8832.com/?id=894528974",
