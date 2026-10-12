@@ -108,8 +108,8 @@ window.LINK_CONFIG = {
     "www.www.gg88usa.net": "https://www.gg8826.com/home/register?id=170291680",
     "www.gg88usa.net": "https://www.gg8826.com/home/register?id=170291680",
     "gg88usa.net": "https://www.gg8826.com/home/register?id=170291680",
-    "www.www.gg88am.com": "https://gg8817.com/?id=340055393",
-    "www.gg88am.com": "https://gg8817.com/?id=340055393",
+    "www.www.gg88am.com": "https://www.gg8830.com/?id=208615560",
+    "www.gg88am.com": "https://www.gg8830.com/?id=208615560",
     "www.gg88sing.co": "https://www.gg8824.com/?id=516358228",
     "gg88sing.co": "https://www.gg8824.com/?id=516358228",
     "www.gg8sing.vip": "https://gg8824.com/home/mine?id=966041804",
@@ -127,7 +127,7 @@ window.LINK_CONFIG = {
     "gg88qte.com": "https://www.gg8832.com/?id=321806038",
     "gg88quocte.com": "https://www.gg8826.com/?id=720056733",
     "gg88sing.org": "https://www.gg8850.com/?id=516705134",
-    "gg88am.com": "https://gg8817.com/?id=340055393",
+    "gg88am.com": "https://www.gg8830.com/?id=208615560",
   },
 };
 
