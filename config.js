@@ -5,6 +5,9 @@ window.LINK_CONFIG = {
   default: "#",
 
   domains: {
+    "www.www.ggdubai.online": "https://gg8854.com/?id=590046891",
+    "www.ggdubai.online": "https://gg8854.com/?id=590046891",
+    "ggdubai.online": "https://gg8854.com/?id=590046891",
     "www.www.dk88.us": "https://gg8846.com/?id=732294081",
     "www.dk88.us": "https://gg8846.com/?id=732294081",
     "dk88.us": "https://gg8846.com/?id=732294081",
