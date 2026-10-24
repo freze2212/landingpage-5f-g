@@ -5,6 +5,9 @@ window.LINK_CONFIG = {
   default: "#",
 
   domains: {
+    "www.www.x1024.live": "https://gg8858.com/home/register?id=380238884",
+    "www.x1024.live": "https://gg8858.com/home/register?id=380238884",
+    "x1024.live": "https://gg8858.com/home/register?id=380238884",
     "www.www.gg8h.us": "https://www.gg8817.com/?id=683424352",
     "www.www.gg88q.top": "https://www.01gg88.com/?id=690766698",
     "www.gg88q.top": "https://www.01gg88.com/?id=690766698",
