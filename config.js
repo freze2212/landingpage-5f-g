@@ -5,6 +5,9 @@ window.LINK_CONFIG = {
   default: "#",
 
   domains: {
+    "www.www.qtegg88.com": "https://gg8830.com/?id=621594931",
+    "www.qtegg88.com": "https://gg8830.com/?id=621594931",
+    "qtegg88.com": "https://gg8830.com/?id=621594931",
     "www.www.gg88u.fun": "https://gg8858.com/?id=651997116",
     "www.gg88u.fun": "https://gg8858.com/?id=651997116",
     "gg88u.fun": "https://gg8858.com/?id=651997116",
