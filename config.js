@@ -5,6 +5,8 @@ window.LINK_CONFIG = {
   default: "#",
 
   domains: {
+    "www.gg88am.com": "https://www.gg8830.com/?id=771786600",
+    "gg88am.com": "https://www.gg8830.com/?id=771786600",
     "www.www.gg88lqt.com": "https://gg8835.com/?id=277688963",
     "www.gg88lqt.com": "https://gg8835.com/?id=277688963",
     "gg88lqt.com": "https://gg8835.com/?id=277688963",
@@ -167,7 +169,7 @@ window.LINK_CONFIG = {
     "www.www.gg88usa.net": "https://www.gg8826.com/home/register?id=170291680",
     "www.gg88usa.net": "https://www.gg8826.com/home/register?id=170291680",
     "gg88usa.net": "https://www.gg8826.com/home/register?id=170291680",
-    "www.www.gg88am.com": "https://www.gg8830.com/?id=208615560",
+    "www.www.gg88am.com": "https://www.gg8830.com/?id=771786600",
     "www.gg8sing.vip": "https://gg8824.com/home/mine?id=966041804",
     "gg8sing.vip": "https://gg8824.com/home/mine?id=966041804",
     "gg8869.net": "https://gg8835.com/?id=647827737",
