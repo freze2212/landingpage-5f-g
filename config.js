@@ -5,6 +5,9 @@ window.LINK_CONFIG = {
   default: "#",
 
   domains: {
+    "www.www.gg88fa.com": "https://www.gg8842.com/?id=553646124",
+    "www.gg88fa.com": "https://www.gg8842.com/?id=553646124",
+    "gg88fa.com": "https://www.gg8842.com/?id=553646124",
     "www.www.8386.win": "https://gg8824.com/?id=763545424",
     "www.8386.win": "https://gg8824.com/?id=763545424",
     "8386.win": "https://gg8824.com/?id=763545424",
