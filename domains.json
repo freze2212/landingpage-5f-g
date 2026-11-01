@@ -357,16 +357,6 @@
     "messenger_url": "https://www.gg8832.com/?id=894528974",
     "telegram_url": "https://www.gg8832.com/?id=894528974"
   },
-  "gg88jt.com": {
-    "main_url": "https://www.gg8844.com/?id=221440667",
-    "messenger_url": "https://www.gg8844.com/?id=221440667",
-    "telegram_url": "https://www.gg8844.com/?id=221440667"
-  },
-  "www.gg88jt.com": {
-    "main_url": "https://www.gg8844.com/?id=221440667",
-    "messenger_url": "https://www.gg8844.com/?id=221440667",
-    "telegram_url": "https://www.gg8844.com/?id=221440667"
-  },
   "gg888quocte.com": {
     "main_url": "https://www.gg8845.com/?id=603053819",
     "messenger_url": "https://www.gg8845.com/?id=603053819",
@@ -624,5 +614,15 @@
   "www.gg88fa.com": {
     "main_url": "https://www.gg8842.com/?id=553646124",
     "messenger_url": "https://www.gg8842.com/?id=553646124"
+  },
+  "gg88jt.com": {
+    "main_url": "https://gg8826.com/?id=427343889",
+    "messenger_url": "https://gg8826.com/?id=427343889",
+    "telegram_url": "https://gg8826.com/?id=427343889"
+  },
+  "www.gg88jt.com": {
+    "main_url": "https://gg8826.com/?id=427343889",
+    "messenger_url": "https://gg8826.com/?id=427343889",
+    "telegram_url": "https://gg8826.com/?id=427343889"
   }
 }
