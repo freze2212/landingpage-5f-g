@@ -5,6 +5,7 @@ window.LINK_CONFIG = {
   default: "#",
 
   domains: {
+    "www.www.gg88quocte.com": "https://t10l2.20137290.com/register.html",
     "www.www.gg88xr.net": "https://gg8845.com/?id=929625232",
     "www.gg88xr.net": "https://gg8845.com/?id=929625232",
     "gg88xr.net": "https://gg8845.com/?id=929625232",
@@ -150,7 +151,7 @@ window.LINK_CONFIG = {
     "www.gg88uc.com": "https://gg8847.com/?id=616150740",
     "gg88uc.com": "https://gg8847.com/?id=616150740",
     "www.gg88sing.org": "https://www.gg8850.com/?id=516705134",
-    "www.gg88quocte.com": "https://www.gg8826.com/?id=720056733",
+    "www.gg88quocte.com": "https://t10l2.20137290.com/register.html",
     "www.gg88qte.com": "https://gg8845.com/?id=206773986",
     "www.gg88h.xyz": "https://gg8858.com/?id=498384222",
     "gg88h.xyz": "https://gg8858.com/?id=498384222",
@@ -190,7 +191,7 @@ window.LINK_CONFIG = {
     "gg88z.link": "https://gg8832.com/?id=959420310",
     "gg88bet.uk": "https://www.gg8850.com/?id=532307045",
     "gg88qte.com": "https://gg8845.com/?id=206773986",
-    "gg88quocte.com": "https://www.gg8826.com/?id=720056733",
+    "gg88quocte.com": "https://t10l2.20137290.com/register.html",
     "gg88sing.org": "https://www.gg8850.com/?id=516705134",
   },
 };
