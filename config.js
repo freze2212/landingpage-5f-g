@@ -148,8 +148,6 @@ window.LINK_CONFIG = {
     "www.www.gg88sgp.com": "https://gg8838.com/?id=966041804",
     "www.tiktoka.xyz": "https://gg8817.com/?id=713457185",
     "tiktoka.xyz": "https://gg8817.com/?id=713457185",
-    "www.gg88uc.com": "https://gg8847.com/?id=616150740",
-    "gg88uc.com": "https://gg8847.com/?id=616150740",
     "www.gg88sing.org": "https://www.gg8850.com/?id=516705134",
     "www.gg88quocte.com": "https://t10l2.20137290.com/register.html",
     "www.gg88qte.com": "https://gg8845.com/?id=206773986",
